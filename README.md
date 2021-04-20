@@ -1,1 +1,1 @@
-Portfólio em desenvolvimento, usando em exercicios no curso da Trybe.
+Portfólio em desenvolvimento, usado principalmente para fins de exercicios no curso da Trybe.
