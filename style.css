@@ -1,3 +1,29 @@
 body {
     background-color: #DBE4EE;
 }
+
+h1 {
+    display: block;
+    text-align: center;
+}
+
+img {
+    display: inline-block;
+    padding: 20px;
+    background-color: orange;
+}
+
+
+p.descricao{
+    vertical-align: top;
+    display: inline-block;
+
+    width: 30%;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.impar{
+    font-weight: bold;
+}
