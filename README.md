@@ -1,3 +1,1 @@
-Portfólio
-
-Portfólio em desenvolvimento no curso da Trybe.
+Portfólio em desenvolvimento, usando em exercicios no curso da Trybe.
